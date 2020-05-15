@@ -1,0 +1,1 @@
+echo "bla bla bla" >  "$REPORT_DIRECTORY$POSTCHECK_REPORT_FILENAME"
