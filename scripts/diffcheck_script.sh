@@ -1,0 +1,1 @@
+echo "bla bla bla" >  "$REPORT_DIRECTORY$DIFFCHECK_REPORT_FILENAME"
